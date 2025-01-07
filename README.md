@@ -1,6 +1,6 @@
 # Kojima Diary Translation
 
-An effort to translate developer diary entries from *Metal Gear Solid 2: The Making* (2002)—a Japan-only book never officially localized. This repository contains:
+An effort to translate developer diary entries from *Metal Gear Solid 2: The Making* (2002). This repository contains:
 
 - A **“best” final translation** (see [`best-translation.md`](best-translation.md)).
 - **Raw data** (scans, transcripts, and comparisons).
