@@ -6,7 +6,6 @@ An unofficial fan effort to translate developer diary entries from *Metal Gear S
 - **Raw data** (scans, transcripts, and comparisons).
 - **Notes on the translation process**, including AI tools, a human-translated version, and expert review.
 
-All original text belongs to the rightful owners. This project is for **educational and preservation purposes** only.
 
 ---
 
@@ -49,7 +48,6 @@ To get things right, we compared all versions side by side and consulted a Japan
 ## Legal / Disclaimer
 
 - This is **unofficial fan work** for archival and educational purposes.  
-- Original text/images belong to Konami / Hideo Kojima or their respective owners.  
 - No copyright infringement is intended, and no commercial profit is involved.  
 - **Use these translations at your own discretion**—they are not officially verified, and AI tools can introduce inaccuracies.
 
