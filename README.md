@@ -21,7 +21,7 @@ An effort to translate developer diary entries from *Metal Gear Solid 2: The Mak
 
 This project was started by a group of game developers curious about Hideo Kojima’s creative process during the development of *Metal Gear Solid 2*.
 
-We began with AI tools like GPT-4, Gemini, and DeepL to create initial transcripts and translations. While the AI translations looked very convincing, they couldn’t be trusted on their own—AI often makes things up or misinterprets details. To improve accuracy, we obtained a human translation commissioned by the YouTube channel *Did You Know Gaming?*. However, this version contained noticeable errors that stood out to anyone familiar with the game’s story.
+After discovering the scans online, we began transcribing and translating with AI tools like GPT-4 and Gemini. While the AI translations looked very convincing, they couldn’t be trusted on their own—AI often makes things up or misinterprets details. Luckily, we obtained a translation commissioned by the YouTube channel *Did You Know Gaming?*. However, this version contained noticeable errors that stood out to anyone familiar with the game’s story and development.
 
 To get things right, we compared all versions side by side and consulted a Japanese-speaking game developer for final checks. By combining AI outputs, human input, and expert review, we’ve put together what we believe is the most accurate version of Kojima’s diary. 
 
