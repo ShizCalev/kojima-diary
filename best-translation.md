@@ -482,6 +482,28 @@ The name "Operation Desert Fox" also reminds me of *MGS.* There are even rumors 
 
 I received a box of *MGS* trading cards. I’ll open one pack each day.
 
+## December 18, 1998 (Friday)
+
+The second day of the airstrikes on Iraq. The scale is expanding. It seems the South Korean Navy has sunk one of its own small submarines. Was it in South Korean waters? What were they doing? Were they on a special mission?
+
+At the KCE (Konami Computer Entertainment) School, we held a special lecture by the MGS team. Uehara, Mizutani, Muraoka, and I participated. When we arrived at the venue on the 8th floor of Mori Building 25, the setup was already complete. The main hall could hold 100 people, and the lecture was broadcast via camera to another 100 people outside who couldn’t fit in the hall. As an icebreaker, I introduced the staff and showed a video of Mei Ling (facial animation), but there wasn’t much of a reaction. Then, Uehara-kun, Mizutani-kun, and Muraoka-san each gave a 20-minute lecture in that order. We had prepared for 20 minutes of Q&A afterward. Overall, I think it went fairly well.
+
+I received Sonic from SEGA's Naka-san. It looks like they made the release in time—amazing, really amazing. We all played it right away.
+
+I went swimming at the sports club. Since it’s the end of the year and people are likely busy with year-end parties and other activities, it was the least crowded I’ve ever seen it. I had one lane (specifically for turns) all to myself, and the lane next to it was empty too.
+
+## December 21, 1998 (Monday)
+
+I caught a cold for the first time in six months. My throat hurts. My head hurts. My body feels sluggish.
+
+I thought about going to the hospital, but then I remembered my last visit was probably in March. Since it’s been six months, I’d need to present my health insurance card, but I didn’t have it with me today. So, I gulped down some Pabron S, which I received from the company health plan.
+
+I used to catch colds very easily in winter, but I haven’t had one in the past six months. Well, I did have other issues, like stomach pain. When I think about it, the fact that I didn’t get a cold during the MGS wrap-up period must mean I was really tense at the time.
+
+I had a meeting with Okamura about the plot for Z.O.E.
+
+I went out drinking with Matsuno-san in Ebisu. Although our positions differ, we both share the same struggles and dilemmas of balancing the roles of developer and producer in the field.
+
 
 ## December 24, 1998 (Thursday)
 
@@ -755,6 +777,19 @@ I couldn’t get anything done on *MGS2* today. From 11 AM, we had a schedule me
 
 This time, we connected KCE Osaka and KCE Kobe via TV broadcast from the Phoenix Building in Osaka. This was my first formal video conference. I used to scoff at the idea of video conferencing, but it’s actually quite effective. You don’t really feel the distance. For report-heavy meetings like today, it worked perfectly. If we were to have three-way video conferences, it might start to feel like one of the sci-fi movies I used to admire.
 
+## February 15, 1999 (Monday)
+
+I wrote the specifications for player bleeding and first-person attacks. I had Sonoyama-kun start testing first-person attacks using the PlayStation system. It’s pretty interesting, but it inevitably slows down the game’s sense of speed. Run, stop, aim, shoot—this becomes the basic gameplay loop in MGS2. The overall feel is slightly different. The key challenge is maintaining the right tempo. How much of an advantage—or disadvantage—will first-person attacks give the player?
+
+The effect of the FAMAS tracer rounds was unexpectedly good. In 3D, it’s hard to see the bullet trajectory, but with tracer rounds, it becomes very clear. I realized this is probably how they’re used in real life, too.
+
+I discussed with Muraoka-san whether to use Billy Joel’s "New York State of Mind" or Frank Sinatra’s "New York, New York" for the opening and ending. After all, the keyword is "New York." I bought Billy Joel’s greatest hits at the record store. Since I sang "Honesty" at karaoke the other day, I suddenly felt like listening to him again.
+
+Fussy came up with a new FOXDIE setting based on prions, and it seems promising. I noticed a book about prions on his desk that I had meant to read. Interestingly, I had included prions in an unrealized project back in 1990. Back then, I never imagined prions would become such a major topic.
+
+European pre-orders for MGS have reached 1.02 million units, bringing the worldwide total to 3.25 million. With the Spanish version, we should reach 3.4 million. I wonder if we can make it to 3.5 million somehow?
+
+
 ## February 16, 1999 (Tuesday)
 
 I wrote the specifications for enemy soldiers. I summarized the three senses (sight, hearing, and smell), types, behaviors, and alert modes of the enemy soldiers. If we can implement everything we’re planning, it should create a "new experience" unlike anything seen before in gaming history. If this works, we won’t even need a story. Low-polygon models might even be acceptable. I haven’t felt this excited about one of my own concepts in a while.
@@ -943,12 +978,6 @@ The first half was interesting! The German techno synced perfectly with Lola run
 I'm working on an article for *Game Criticism* covering *The Faculty* and *A Simple Plan.*
 
 I still can’t shake this cough.
-
-## June 14, 1999 (Monday)
-
-Had an interview in the morning. First, a programmer in the doctoral program at Keio University, 27 years old. He showed his own video work, which took 8 months to complete, including modeling, textures, and motion (on a black PlayStation!). His ability, sense, and passion are excellent. I had some concerns about his personality going into the interview, but I was completely wrong. He’s an impeccable person. He’s even founded and left a company before, and as a person, he’s deep. His wife works for the Self-Defense Forces. He’s definitely hired!
-
-In the afternoon, I went to Digital Egg in Tsukiji to check the editing of the commercial. After all the effort, the footage turned out great. Still, I don’t particularly enjoy watching my own face. I wonder how this commercial will be received by the audience.
 
 ## June 14, 1999 (Monday)
 
@@ -1643,7 +1672,7 @@ I bought *Early Autumn* by Robert B. Parker, as recommended by Mouri-san. If it�
 
 I asked Kume-chan to look into HIDEOKOJIMA.COM. To my shock, someone had already registered it. When I visited the site, I found that they had posted a photo of the Konami JPN entrance—one that had just been taken during the recent shoot for "IGN."
 
-"2000-12-11 (Monday)
+## December 11, 2000 (Monday)
 
 The long-awaited third version of the Plant chapter has been burned, so I’m checking it. Although it’s still a placeholder map, the lighting is mostly in place. The regular camera angles have also been set, and while the enemy routes haven’t been fully adjusted yet, the soldiers have been placed.
 
