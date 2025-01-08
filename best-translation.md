@@ -825,7 +825,7 @@ Got an email from Mouri-san. It seems that a US SOCOM counter-terrorism instruct
 
 Matsuka started recording videos for the weekend meeting. We’re filming a PocketStation with a digital camcorder to explain the FOXDIE concept. We need a hand model with nice fingers for this.
 
-## February 24, 1999 (Thursday)
+## February 24, 1999 (Wednesday)
 
 I went to a screening at Warner in Hamamatsucho. I was supposed to meet Hattori-san at Hamamatsucho station (at the ticket gate). However, even when the time came, she hadn’t shown up. Shinchyan and I were waiting at the exit closer to Warner, which was exposed to the elements, and it was unbearably cold. On top of that, it was raining.
 
@@ -1208,7 +1208,7 @@ Additionally, I’ll change Rose’s role, originally planned as a newscaster, t
 
 Raiden couldn’t protect Olga’s unborn child. This parallels his story with Rose.
 
-## July 28, 1999 (Tuesday)
+## July 28, 1999 (Wednesday)
 
 I re-evaluated the scheduling and staff assignments for *MGS2*. We need to have all elements completed by the end of 2000. It’s becoming difficult to divide things into 30 categories like we did last time. Previously, we worked with very small map units, one per load. This time, it’s different. We can’t create a feasible schedule. There’s also the issue of how to handle high-polygon models, which is still undecided for now. Furthermore, the biggest challenge is motion capture. How do we capture it? And what do we do with the captured data? I have no idea. Last time, we managed about 50 shoots per day. How many days will it take this time?
 
@@ -1360,7 +1360,7 @@ The CP division proposed a 12-inch doll. It looks like they’re planning a doll
 
 I bought volume 15 of *Monster* on the way home. Once again, it ends at such a tantalizing point.
 
-## Thursday, November 2, 2000
+## November 2, 2000 (Thursday)
 
 It’s raining again this morning. Since today is "Tokyo Fantasia," I had planned to go home for a bit, but with this weather, I decided to go straight there from the office. The meeting time at Shibuya Pantheon is 11 p.m., so leaving the office at 10:30 p.m. should be fine.
 
@@ -1374,7 +1374,7 @@ I bought takoyaki and tenmusu at Mitsukoshi and ate them. Today’s takoyaki was
 
 I went swimming at the club. It was less crowded than usual, so I swam more than usual. Maybe that’s why I’m already getting sleepy. I wonder if I’ll be able to fight off the drowsiness at Tokyo Fantasia.
 
-## 00/11/4 (Saturday)
+## November 4, 2000 (Saturday)
 
 I went to the office today. I worked on the scripts. Especially the plant and tanker sections at the beginning needed fixing.
 
@@ -1387,7 +1387,7 @@ Wrote specifications for the opening act. Thinking about it, we may have a CESA 
 
 I bought a copy of Arata Tendo’s new work, *Overflowing Love*. It was selling quite well. It seems that the first edition will be sold out by next week.
 
-## 2000-11-6 (Monday)
+## November 6, 2000 (Monday)
 
 I finally got back to working on revisions for the Plant chapter. The morning was consumed by emails, approvals, and meetings, so I only got into the meeting room in the afternoon. I had reserved the room since the morning, but I might get scolded for not using it much. For today, I’ll focus on revising up to the BC connecting bridge. The exchange event with Snake will be a hand-off. If the player has a razor, it will automatically be given to Snake. It’s not interactive, but to avoid dragging on after the long cutscene, I’ve decided to streamline it.
 
@@ -1403,11 +1403,11 @@ We couldn’t burn a disk for *Z.O.E* today either. Frustrated, I played the "De
 
 *Tapestry of Spies* wasn't interesting. I'm disappointed, especially since *Point of Impact* was so good.
 
-## 1999-11-7 (Tuesday)
+## November 7, 1999 (Sunday)
 
 My stomach is acting up again. For the past month, I’ve had terrible constipation, and now I’m getting stomach pains. It’s around the left side of my abdomen. If it drags on like it did before, it’ll be tough. I try not to think about it too much, but it’s still on my mind.
 
-## 2000-11-8 (Wednesday)
+## November 8, 2000 (Wednesday)
 
 Today, we had a monitoring session for *MGS2* with development assistants from WEST. The participants were Hara-san, Arikawa-san, Kitamura-san, and Nakano, the department head (now an executive director). Each of them played for about two hours. Like at the SCE monitoring session, I gave them a printed sheet to write their impressions.
 
@@ -1415,7 +1415,7 @@ Even Hara-san, who almost never plays games, managed to clear it on Very Easy mo
 
 Lip-syncing has started to be added to the polygon cutscene. Just adding facial expressions and lip movements makes a big difference. Now we need to work on eye movements and blinking. How much we can do will depend on time. The Cypher is also looking good.
 
-## 1999-11-9 (Thursday)
+## November 9, 1999 (Tuesday)
 
 I've had a stomachache since morning. It's around the area below my left navel. The same spot hurts. It hurts even when I press on it with my finger.
 
@@ -1427,7 +1427,7 @@ At KMJ in Shinjuku, there was a product briefing for *Z.O.E.* It was supposed to
 
 For *MGS2,* I gave a truthful gameplay demonstration using the disc. It took almost 30 minutes to reach the battle with Olga. After the explanation, there was some applause, and the evaluation was quite high! As I was leaving, everyone was praising it, saying "Amazing!" repeatedly. Only Okamura is scheduled to go on a business trip to Kobe tomorrow. I wasn't planning on presenting *MGS2,* but it might be better to record it on DV and hand it over.
 
-## 2000-11-10 (Friday)
+## November 10, 2000 (Friday)
 
 My stomach still hurts. It’s getting worse.
 
@@ -1435,13 +1435,13 @@ I played through the full *Z.O.E* disc.
 
 The vibration feature is now in the Codec, but the shaking doesn’t look like natural hand movement. I consulted with Hopin, who explained how the hand-shake effect works in the demo tool. The character motions during the Codec conversations are starting to be implemented. Xin-chan has also worked on the lighting, but it’s still not quite right. I’m looking forward to improvements in the focus and visual effects.
 
-## 2000-11-12 (Sunday)
+## November 12, 2000 (Sunday)
 
 The first disc of the Plant chapter was ready, so I played it up to Shell 1. It seems I can’t descend into the central underground area. I keep getting spotted by enemies too often. And, the map connections are hard to follow. The layered structure, particularly between the heliport and the armory, isn’t intuitive. It’s impossible to figure out how the areas are connected—it feels like a maze.
 
 I’ll adjust the script based on what I saw on this disc. The first elevator hall is too difficult with three enemy soldiers.
 
-## 2000-11-13 (Monday)
+## November 13, 2000 (Monday)
 
 I checked the second disc of the Plant chapter. As expected, the heliport and armory sections are still problematic. I ordered the removal of the overhead camera in the open area and gave instructions for adjustments in various places. The central building’s hostage room on B3 is now visible, but it doesn’t feel right. The density of the hostages isn’t coming through. First, we’ll set up the hostages' motions and then determine the size of the room.
 
@@ -1451,13 +1451,13 @@ I had Mouri-san play the demo. As expected, he got spotted often and had frequen
 
 I had dinner with Mouri-san at a yakiniku restaurant near Ebisu Station. Due to my busy schedule and poor health, I stopped after two glasses of beer.
 
-## 2000-11-14 (Tuesday)
+## November 14, 2000 (Tuesday)
 
 I met Director Sogo Ishii!! My dream has finally come true!  
 He was such a nice person!! And on top of that, he praised *MGS*!  
 Ah, what a great day.
 
-## 2000-11-15 (Wednesday)
+## November 15, 2000 (Wednesday)
 
 Added in a tutorial video (Basic Action). The screen is small, but it's easy to understand when you see it in motion. The video is divided into beginner, intermediate, and advanced levels. We are considering adding more categories. I was thinking of adding a movie of the staff's faces, but we decided not to. Matsubana had already started filming—I am sorry about that.
 
@@ -1473,7 +1473,7 @@ There's an article in *AERA* criticizing the poor performance of the PS2.
 
 I played through *Z.O.E* to the end. It's still got a long way to go, but at last, I can see its substance.
 
-## 2000-11-21 (Tuesday)
+## November 21, 2000 (Tuesday)
 
 I checked the master version. If there are no problems, we’ll submit the master by tomorrow morning.
 
@@ -1483,7 +1483,7 @@ I played through *Z.O.E* again. It froze halfway through, so I had to restart fr
 
 It seems Toyopy is getting married. I’m truly happy for him! The wedding is planned for April. I remember interviewing him at the main office before Konami JPN was established. He had a brand-new suit, but the label was still on the sleeve. That was five years ago now.
 
-## 2000-11-22 (Wednesday)
+## November 22, 2000 (Wednesday)
 
 I heard from Okamura that the CS Osaka product presentation held yesterday was a big success.
 
@@ -1507,7 +1507,7 @@ For the second party, we all went to karaoke. The echo was so strong that it was
 
 I went home with Kaneyoshi.
 
-## 2000-11-24 (Friday)
+## November 24, 2000 (Friday)
 
 I did a full check of *Z.O.E*. I was able to get through it without any crashes. Although the demo isn’t implemented yet, it’s a relief that the playthrough worked. Now it’s a matter of how much we can improve the quality within the schedule. At least we’ve moved past the point of hoping for a miracle. I’ll focus especially on the direction and sound aspects.
 
@@ -1519,7 +1519,7 @@ I played the DVD version of *Z.O.E* for the first time. I experienced the transi
 
 My left side hurts, from the area around my ribs down to my hip. It even hurts when I sneeze. It was also painful while swimming.
 
-## Sunday, November 26, 2000
+## November 26, 2000 (Sunday)
 
 I came to the office to work. Tomorrow, we have a meeting to revise the schedule for the Plant Chapter. I’ll prepare the materials for that today.
 
@@ -1655,7 +1655,7 @@ That said, from a gameplay perspective, this part severely limits the player’s
 
 What’s even more concerning, though, is the underwater scene. Watching the placeholder version from Sonoyama-kun’s station gives off a dangerous vibe. We’ll need to make a decision soon. I’m also changing the sniping scene from the second floor to the first floor. The initial Claymore corridor is hard to see, so we’re moving it down. Plus, the angle from below gives the Plant an imposing appearance, so we’ll go with that. The textures for the underside of the Plant don’t seem to be an issue, so that should work fine."
 
-## 2000-12-12 (Tuesday)
+## December 12, 2000 (Tuesday)
 
 I made significant revisions to the third version of the Plant chapter. The Nikita missile section is quite difficult. First, it's hard to locate the power panel, and the pipe connections are confusing. To address this, we’ll place a pipe map (blueprint) on the wall. Even if you know the route, it’s almost impossible to clear, similar to the highest difficulty in VR missions. As a solution, firing from the small room with the gun cameras will make it much easier. With just a hint, even players without much skill can clear it. I’ll decide how much help to provide through the Polydemo and the initial radio transmissions as we go along. Although I considered removing this event from the game several times, some staff argued, “MGS needs these kinds of tricky events,” which I can understand. However, I’m still unsure if new players will be able to handle it.
 
@@ -1671,11 +1671,11 @@ For two and a half hours, I stood with no food, no drinks... and hardly any inte
 
 The party ended just before 9 p.m. Maruyama-san and Saeki-san from promotions came by to greet me.
 
-## 2000-12-13 (Wednesday)
+## December 13, 2000 (Wednesday)
 
 We’ve placed shield soldiers in the engine room of the Tanker chapter, along with four attack soldiers. This significantly boosts the security level. This area will serve as one of the key moments in the Tanker chapter. I want players to enjoy the clearing process and the soldiers' behaviors, especially the AI, which is different from the previous game.
 
-## 2000-12-14 (Thursday)
+## December 14, 2000 (Thursday)
 
 With the map changes to the underwater scene, I continued to revise the scriptment today. Yoshiike is also updating the map to follow the original design specified in the scriptment. The number of times the player can surface for air is reduced to two. The location of the thermal goggles has also been changed. An item (Nikita) is placed in a hidden duct in the Nikita room.
 
@@ -1689,7 +1689,7 @@ Fukushima is working on revising the script. The first draft should be ready aro
 
 I got a call from Xin-chan, who is on a business trip in the U.S. The meeting with McFarlane went well, even though it lasted for four hours. That’s a relief. I have high expectations for this figure line. Even if it’s cold, I’ll have to attend the Toy Show in February.
 
-## 2000-12-15 (Friday)
+## December 15, 2000 (Friday)
 
 We’ve decided to place Cyphers on the CD connecting bridge. The Cyphers will be hovering in place, allowing players to understand that they function as aerial surveillance cameras. The player will also learn that tranquilizer guns can’t be used to clear the bridge in this section. However, they’ll discover that using chaff grenades will neutralize the Cyphers. As for the D-leg, I’ve scrapped the lame “command room” concept and focused the gameplay on a “large, open area with many enemy soldiers.” This will be the first major challenge after the bomb disposal begins.
 
@@ -1697,7 +1697,7 @@ It seems that the Z.O.E team, or rather Konami JPN WEST, is running low on DVDs.
 
 I bought the second half of *The Stand*. Since Pollock’s new book was also released, I picked that up as well. I need to finish *Early Autumn* quickly. At this rate, Pollock’s book might be the last one I read before the 21st century ends.
 
-## 2000-12-18 (Monday)
+## December 18, 2000 (Monday)
 
 We submitted the pre-master for Z.O.E to SCE. Now we’ll focus on debugging, fine-tuning the movies, and adjusting the difficulty until January 15th. I feel a bit relieved.
 
@@ -1709,7 +1709,7 @@ I finally got John Wetton’s new album (*Welcome to Heaven*). For once, when I 
 
 The 5.1 channel sound system arrived. We set it up in the seminar room. As a test, we watched the Omaha Beach scene from *Saving Private Ryan*. While it doesn’t quite match the experience of a theater, the sense of immersion was impressive. If we could replicate that in MGS2, it would be incredible. However, that level of sound immersion isn’t possible during gameplay, and that’s the problem. Only during cutscene playback can we get that level of immersion, and it still feels lacking. In *Saving Private Ryan*, you can hear where the soldiers are being shot at from—this kind of audio detail is amazing in a 2D space.
 
-## 2000-12-19 (Tuesday)
+## December 19, 2000 (Tuesday)
 
 This morning, when I opened the front door, the sky was still dark. It had just rained, but it truly felt like the arrival of winter.
 
@@ -1729,7 +1729,7 @@ John Wetton’s new album is great. His voice, melody, and vocal style are sooth
 
 I started reading the second half of King's *The Stand* yesterday. Thinking that this was written 25 years ago leaves me with mixed feelings. This is the second book I've read by King, and it's very well done. His character development and plotting are phenomenal. This is probably what makes King’s work so fascinating. It's also understandable why his books are difficult to adapt into films—they have a structure and form that can only be expressed in novel form. MGS also embodies something that can only be expressed in a game.
 
-## 2000-12-20 (Thursday)
+## December 20, 2000 (Wednesday)
 
 At 10 a.m., the new graduates joining us next spring arrived. Six designers, three programmers, and two office staff—11 in total. We conducted a round-robin interview session in the seminar room. Chairs were arranged facing each other, and each interview was limited to seven minutes. An assistant provided signals when the seven minutes were almost up. We conducted interviews with everyone. I hope the female programmer develops her skills and contributes to our future projects. We had lunch with the new graduates. While eating, I talked with them. They seemed nervous, so the conversation didn’t flow much.
 
@@ -1741,13 +1741,13 @@ The Tanker chapter is now connected, and the first ROM has been burned. There's 
 
 We had two of the new graduates play the MGS2 demo. Each of them completed it in 40 to 60 minutes without any hints. The difficulty seems about right.
 
-## 2000-12-21 (Thursday)
+## December 21, 2000 (Thursday)
 
 Yesterday, after the year-end party, we went to the usual karaoke for the second round, and after that, a small group of us drank until 3 a.m. It was Scott, Kaneda, Nojiri, and me—just four people. By the time we noticed, the place was closing. They kept flashing the lights on and off, signaling us to leave.
 
 I was exhausted last night, so I went straight to bed. This morning, I took a bath for the first time in a while. Since it's cold outside, I took extra care to dry my hair with a hairdryer. I can't afford to catch a cold at this time of year.
 
-## 2000-12-22 (Friday)
+## December 22, 2000 (Friday)
 
 I edited the opening demo for Z.O.E.
 
@@ -1759,7 +1759,7 @@ I went swimming at the club. It wasn’t crowded today. I noticed again that the
 
 I incorporated the game footage and nearly finalized the editing for Z.O.E. The direction is set. However, the game footage needs to be used as is, without lengthy shots. It doesn't work well with short cuts. Tomorrow, I'll get it to just one step away from completion.
 
-## 2000-12-23 (Saturday)
+## December 23, 2000 (Saturday)
 
 I went to the office to work on editing Z.O.E.
 
@@ -1767,7 +1767,7 @@ However, when I got to the editing room ready to start, the system was in the mi
 
 I made some small adjustments, and the opening is almost finalized. I'll do some fine-tuning next week and finish it up.
 
-## 2000-12-25 (Monday)
+## December 25, 2000 (Monday)
 
 Suddenly, it was decided that we needed a trailer for MGS2 on the Z.O.E store display DVD, so I edited the footage. Since I'm familiar with all the available footage of MGS2, the planning and editing went quickly.
 
@@ -1775,7 +1775,7 @@ I checked the Tanker chapter disc. It freezes when entering the long hallway, so
 
 The engine room background is from Mogi's early work, and now, it stands out compared to Negi and Mineshi's styles. In the end, it will need to be adjusted to match overall.
 
-## 2000-12-26 (Tuesday)
+## December 26, 2000 (Tuesday)
 
 The news announced the 2000 movie box office rankings. *Mission: Impossible 2* took first place, followed by *Pokémon* in second. Among Japanese films, *Whiteout* ranked fifth, while *The Perfect Storm* unexpectedly came in eighth, and *End of Days* was tenth. As usual, children's films like *Doraemon* and *Toy Story 2* were among the top. The rest were mostly Hollywood action films. It seems people are watching what everyone else is watching. This trend applies to music and will likely carry over to the game market. This means that children's games and Hollywood-style games will be in vogue. MGS2 also falls into this category. I wonder if the strategies we employed in this MGS2 will be accepted by these users. It's a kind of adventurous challenge in the mainstream market.
 
@@ -1783,7 +1783,7 @@ I played the Tanker chapter. As expected, the engine room will likely become the
 
 I was worried about the cargo hold, and sure enough, it doesn’t look good. The underfloor route, in particular, lacks excitement. The key is how much tension we can create in the ground route. If we can get this right, the rest will just be extra paths. Dolph’s speech needs at least 5 to 8 minutes, even at its shortest. I want players to listen to the entire speech.
 
-## 2001-1-4 (Thursday)
+## January 4, 2001 (Thursday)
 
 The year 2001 has begun. This is the 21st century I dreamed of as a child.
 
@@ -1807,11 +1807,11 @@ When I got home and turned on the TV, a science special was airing as a preview 
 
 After that, for some reason, I got absorbed in *Contact* and ended up watching it until the end. I had seen it in theaters, and as before, it's not very good. Yet, there's something compelling about it. Perhaps it’s not the movie itself, but the longing for the universe. Jodie Foster's lines and the characters' views on the universe... maybe I was interested and wanted to revisit those ideas.
 
-## 2001-1-5 (Friday)
+## January 5, 2001 (Friday)
 
 For the first time in years, I had a McDonald's breakfast in front of my computer. Warm food is truly comforting. As I ate, I checked my emails. It's nice to do this once in a while. It seems I have a self-deprecating side (a kind of narcissism). Eating junk food always reminds me of my days living in a boarding house. Those days were fun.
 
-## 2001-1-10 (Thursday)
+## January 10, 2001 (Wednesday)
 
 I'm heading to Nasu tonight, so I leave the house with a suit and enough luggage for a two-night stay. It's nice to wear a suit once in a while.
 
@@ -1821,7 +1821,7 @@ I can’t shake the worst-case scenario from my mind. I barely slept last night.
 
 It’s hard to describe in words, but I feel an overwhelming sense of disgust and fear from the way they move and their colors... Most of the dreams are of me being chased by them. I also have dreams where my teeth crumble to pieces. Every night, I wake up several times because of the intense discomfort. It’s gotten to the point where I dread going to sleep. Even while I’m dreaming, I can feel the chills running through me.
 
-## 2001-1-15 (Monday)
+## January 15, 2001 (Monday)
 
 At the meeting in Nasu, the release date was decided. The domestic version is already extremely tight (almost impossible?), but the English and European versions will be even tougher. Scott is back, so we discussed and reviewed the schedule. With the deadline set, our options are limited.
 
@@ -1845,7 +1845,7 @@ Should I cut the sword and the Snake support feature? I still can't decide. I wa
 
 Shin-chan sent over the final design for Fatman. On closer inspection, the high collar of the bomb blast suit covers half his face, which means there’s no need for lip-syncing. That's great! However, in the wine-drinking scene, he can't drink with the suit, so we’ll change it to a cocktail glass with a straw. That being said, he has a terrifying face. He must have blown up numerous bombs. His expression is entirely different from what I had imagined, but I’ll go with it. Normally, someone with that look wouldn't be suited for delicate work. He looks more like a professional wrestler.
 
-## 2001-1-16 (Tuesday)
+## January 16, 2001 (Tuesday)
 
 Since the meeting room was occupied for a language check, I worked on the script at my desk.
 
@@ -1861,7 +1861,7 @@ I watched a rough cut of the polygon demo for the sinking of the tanker. It's lo
 
 I placed a Marine on the upper route of the cargo hold. You can obtain his dog tag through a "Hold Up." Also, in the far corner of the lower route, by RAY's feet, I positioned Ocelot (his boots) so that you can take a photo. However, you can't attack him.
 
-## 2001-1-17 (Wednesday)
+## January 17, 2001 (Wednesday)
 
 It's been six years since the Great Hanshin Earthquake. When I think about how six years have already passed, while at the same time seeing the current state of Kobe, which hasn't fully recovered, it makes my heart ache. My son is now seven years old; back then, he wasn't even two. Time flies by too quickly. But the alleviation of people's suffering is far too slow.
 
@@ -1879,7 +1879,7 @@ It's like Pinocchio being swallowed by the whale. But in this case, Raiden is sw
 
 Regarding Raiden's nude scene, I plan to give him a tattoo on his butt cheek.
 
-## 2001-1-18 (Thursday)
+## January 18, 2001 (Thursday)
 
 In the morning, I bought a commuter pass. It’s a newer type of automated commuter pass machine compared to last time. Now it’s possible to buy a new pass directly from the machine, whereas before, new passes had to be purchased at the counter.
 
@@ -1899,13 +1899,13 @@ Raiden’s blood has been changed from white to red. I initially wanted to link 
 
 Red blood is working well in the current setup, so I’m going with that. I’ve also removed the “milk blood” plot from the script. Instead, I’m toying with a new idea: Emma bleeds from her groin (underwater). Raiden, concerned, asks, “Emma, can you show me the blood?” She blushes and says, “I’m fine,” then inserts a tampon. As a bonus, when Raiden worries about how much she’s bleeding, Emma reassures him with “It’s okay, it’s just my period” before she quietly dies. When I shared this with the staff, it was met with almost universal disapproval.
 
-## 2001-01-19 (Friday)
+## January 19, 2001 (Friday)
 
 There was an article about people working in skyscrapers. While reading it, I added a plot detail about how Raiden and Rose met. I embedded it into the codec conversation first thing in the morning. It's a romantic, geeky plot—quite fitting for MGS2. In terms of character settings, Snake is Godzilla and Raiden is King Kong, so it works perfectly.
 
 If Raiden’s motions continue at this rate, they will become enormous in volume. This is due to the large number of weapons. It might not fit into the resident memory area. We need to make the motions as common as possible.
 
-## 2001-01-22 (Monday)
+## January 22, 2001 (Monday)
 
 This morning’s horoscope said that Virgo would have the best day. I don’t believe in horoscopes, but if it's a good prediction, it makes me feel good.
 
@@ -1915,7 +1915,7 @@ At 10:30, we had a meeting for the special program on Z.O.E.
 
 Mr. Mouri visited the office at 2:00 PM. Since I had an interview, I could only greet him briefly.
 
-## 2001-01-23 (Tuesday)
+## January 23, 2001 (Tuesday)
 
 In the morning, I dropped my gloves as I was getting off the train. They were a Christmas gift from my wife, so I couldn’t afford to lose them. I realized this after stepping off the train, and when I turned to go back, an unknown woman had picked them up for me. I was genuinely happy. Even in Tokyo... there are decent people in the world. Unlike boys who want to kill, or young parents who abuse their children...
 
@@ -1925,7 +1925,7 @@ We've decided to express the raging current not with primitives but with sprites
 
 To create the cutscene for the VR scene, we recorded some temporary audio. Makimura-kun played Snake, and Yoshiike-kun played Raiden. With the good recording microphone and the editing room's quality amp and speakers, it didn’t sound too strange. A longer VR video seems more usable. I plan to insert test footage from when we received the PS2 graphics board. Upon searching for the material, it turned out to be Hi8 footage. I wonder what the users will think when they see this.
 
-## 2001-01-24 (Wednesday)
+## January 24, 2001 (Wednesday)
 
 Onimusha arrived from Inafune-san. I played it right away. In the opening, Ohtsuka-san was voicing Nobunaga!
 
@@ -1941,7 +1941,7 @@ I spent the whole afternoon in a meeting about Konami JPN's commercial (CI). I c
 
 At Morita-kun's desk, the staff gathered to discuss the Fortune battle, debating back and forth. I quietly watched and held back. If I step in here again, it won’t help their growth. But if the outcome isn't good, it'll just be a waste of time. I'm looking forward to seeing how much they can realize from the design documents and script. As usual, if I intervene at this stage, they won't make progress. I'll hold back until the rough version is completed.
 
-## 2001-01-25 (Thursday)
+## January 25, 2001 (Thursday)
 
 Lately, my mental state has been unstable. Well, maybe it's not that severe since I'm the one saying it. The pressure of MGS2’s upcoming release, the buildup of stress, and the staff's lack of urgency... it's becoming difficult. I have no way to relieve the stress. To keep my sanity, I listen to music. It's '80s New Wave today. I'm listening to Visage. I don't have particularly fond memories of that time, but for some reason, it makes me think of my younger days and gives me energy. That's all.
 
@@ -1953,7 +1953,7 @@ The right stick blade is moving somehow. It doesn't have the visual excitement o
 
 Let's try using the heavy attack button as a guard button. We're still undecided about using the stick rotation. However, while you can mow down regular soldiers, a sword fight against bosses seems impractical gameplay-wise. Perhaps we should make it blade versus Snake Hand.
 
-## 2001-01-29 (Monday)
+## January 29, 2001 (Monday)
 
 I haven't been feeling well since morning. I have a headache and feel nauseous. My stomach feels heavy. When I stand up to go to the bathroom, my consciousness fades. Is it my blood pressure?
 
@@ -1961,7 +1961,7 @@ In the evening, I slipped out of the office and went to a bookstore. I bought Sp
 
 Naito Rui from PR came by for an interview. I informed him about the live-action filming. He seemed extremely enthusiastic about it. If we can film at places like Federal Hall, Times Square, and the American flag ourselves in New York, even with travel expenses, it would be cheaper. This makes me think the New York scenes in the latter half are doable. I’d like to accompany him, but it doesn’t seem possible with this schedule. It's unfortunate. I'm a bit concerned, but I'm sure he'll be fine. He’ll surely capture the shots we need.
 
-## 2001-01-30 (Tuesday)
+## January 30, 2001 (Tuesday)
 
 Since Matsubana and Muraoka-san are not here today, I focused solely on the scriptment. I tweaked the balance between the in-game cinematics and the codec conversations, only to end up reverting it back. This is a draft script to submit to KME, and when I had Fussy estimate the length, it was just under 200 pages. Maybe I cut too much?
 
@@ -1973,7 +1973,7 @@ Swam at the club. My legs hurt due to the aftereffects of shoveling snow, so I s
 
 I applied for L'Arc-en-Ciel's single giveaway.
 
-## 2001-01-31 (Wednesday)
+## January 31, 2001 (Wednesday)
 
 I had to scrap the decoy balloon. It's painful. No matter how I look at it, it just doesn't seem possible to make it in time. Today is the last day of January. Sigh... Even when I'm on the train, I can't stop thinking about the game's details. Especially before bed, various thoughts keep coming to mind.
 
@@ -1981,17 +1981,17 @@ I have trouble falling asleep.
 
 I considered increasing the team size further, but that would only cause more confusion. Also, most of the people in charge of the boss enemies are not experienced. It's concerning. We'll need to evaluate things early on. In any case, the scenario team will be the key.
 
-## 2001-02-01 (Thursday)
+## February 1, 2001 (Thursday)
 
 It's the start of February today. I'm heading out to evaluate projects at the Konami School. The location is the Shibuya campus. I hope to find some good talent.
 
 In the evening, I returned to Ebisu and checked the Tanker Chapter disk. The disk is already full. Although the stage data hasn't been compressed yet, it's uncertain whether the in-game cinematics will fit. We are aware of this, so we might have to cancel the demo, with the shortest playtime ranging from 30 minutes to 1 hour.
 
-## 2001-02-02 (Friday)
+## February 2, 2001 (Friday)
 
 Fussy sent over revisions for the president's rescue. Hmm, there’s a lot of his lecturing in there. It’s bound to be boring for the players. Well, it’s just that my lecturing has been replaced by his. The Hollywood approach just doesn't seem to work.
 
-## 2001-02-05 (Monday)
+## February 5, 2001 (Monday)
 
 I discussed the digital camera detection specifications in the hold with Nojiri. According to his view, it's impossible due to memory limitations. At most, we can store eight images in memory... We'll only check and detect the area around RAY in the third hold (the composition where RAY is visible).
 
@@ -2003,7 +2003,7 @@ I received a call from Shindou-san at KME. Kenyu Horiuchi's schedule doesn't mat
 
 The prototype pictures of the MGS2 action figures arrived from McFarlane.
 
-## 2001-02-06 (Tuesday)
+## February 6, 2001 (Tuesday)
 
 I watched the rough edit of the commercial. The "Cowboy Segment," which wasn’t very interesting even on set, will have to be scrapped—what a waste. The "Modern Couple" and "Middle Schooler" segments have strong characters and turned out quite well.
 
@@ -2015,7 +2015,7 @@ I came up with the final design for the Tanker Chapter poster series. I discreet
 
 After the Gurlukovich disguise event, players will still be able to change their clothes. Of course, it won't have the bonus of disguising them, but it will be fun visually. The in-game cinematics will also support this. Whether this is possible depends on memory constraints.
 
-## 2001-02-07 (Wednesday)
+## February 7, 2001 (Wednesday)
 
 The temporary Gurlukovich soldier has Raiden's hair attached to it. It looks just like a kappa. Kappa Raiden... It has quite an impact.
 
@@ -2025,7 +2025,7 @@ I left Ebisu at 5:30 PM. Since it was raining heavily, I took a taxi from Americ
 
 I did the commercial editing on Inferno. Well, more accurately, I mean through the operator who uses Inferno. We added Leo's close-up in Z.O.E and revised the final shot of MGS2 to a pull-back. It's a decent outcome, I think. We finished earlier than planned, just after 8 PM.
 
-## 2001-02-08 (Thursday)
+## February 8, 2001 (Thursday)
 
 There’s abnormal activity occurring around Mount Fuji. High-frequency microtremors are happening frequently. It was even reported on the morning news. Could there be a major eruption?
 
@@ -2039,7 +2039,7 @@ We added a new feature for the naked Raiden. If you approach the torture device 
 
 Okajii's muddy stream looks great! If I had known it would turn out this well, I should have included the muddy stream event from the beginning. Is there any way to fit it into a scene somehow? I tried to place it in the computer room, but it’s difficult both in terms of the scenario and programming (map design), so I had to give up. What a shame! However, from a gameplay
 
-## 2001-02-09 (Friday)
+## February 9, 2001 (Friday)
 
 I’m not feeling well after last night’s drinking party. Severe diarrhea and stomach pain. I only slept for two and a half hours... I must be getting old.
 
@@ -2049,7 +2049,7 @@ I read 'The Truth of Shadow Moses.' Even from an objective perspective, the prev
 
 I went swimming at the club. OMD's "Enola Gay" was playing. Then came Depeche Mode... Is this some kind of '80s electropop playlist? Lately, it feels like I'm surviving by clinging to the past.
 
-## 2001-02-15 (Wednesday)
+## February 15, 2001 (Thursday)
 
 Maybe it’s the aftereffects of last night’s drinking party, but my stomach isn’t feeling well. Lately, my condition the day after drinking has been the worst. There’s definitely something wrong with my internal organs.
 
@@ -2061,7 +2061,7 @@ I met with Muranaka-san. It’s been six months. I'm glad to see he’s doing we
 
 We had a meeting about the RAY battle. It seems that RAY's walking can be handled with IK. Is that really true?
 
-## 2001-02-21 (Wednesday)
+## February 21, 2001 (Wednesday)
 
 In the morning, I noticed that my right foot had stepped in poop at the railroad crossing. Was it dog poop? This isn't a slum, so it couldn't have been human feces left on the street.
 
@@ -2073,7 +2073,7 @@ When I was a child, before a sports day, my mother would say, "Step in horse poo
 
 Back then, there was often poop left out in the open. It would lose its color and turn white, like barium poop.
 
-## 2001-03-01 (Thursday)
+## March 1, 2001 (Thursday)
 
 Today is the release day of Z.O.E. It’s also the day the MGS2 demo is unveiled.
 
@@ -2090,13 +2090,13 @@ We launched the online ranking system at 6 PM. Everyone held up cameras and star
 After a quick dinner, the first report came in. About 80 people had already entered. It seems there are people from the UK and Sweden as well.
 
 
-## 2001-03-09 (Friday)
+## March 9, 2001 (Friday)
 
 I’ve neglected my diary for another week. It becomes difficult to keep writing when things get busy. This is especially true when there are many outings, meetings, and interviews. I doubt I can keep this up going forward.
 
 I’m heading to the head office today, so I’m wearing a suit. Wearing a suit is tough, as always.
 
-## 2001-09-11 (Tuesday)
+## September 11, 2001 (Tuesday)
 
 Two typhoons are approaching. Typhoon No. 15 has already come quite close. But for now, the rain and wind don’t seem to be too severe. The trains were running normally. I've been working over 20 hours every day without a break.
 
@@ -2112,13 +2112,13 @@ Kyle's opening was integrated into the game. Just in the nick of time.
 
 At night, an incident occurred. It took many lives and shattered our dreams.
 
-## 2001-10-19 (Friday)
+## October 19, 2001 (Friday)
 
 Today, production is set to conclude. With the U.S. terrorist attacks and the anthrax incidents, it’s not a time for unrestrained celebration, but it is a milestone nonetheless. What will become of this world from now on? There’s still ongoing anxiety, but this state of constant busyness will finally come to an end after three years. I’d like to take it easy for a while. However, even though the master is finished, there are still press events, interviews, release preparations, and promotions to handle until December. I can’t let my guard down. This time, I am truly exhausted.
 
 I finished reading Umehara's *Sci-Fi Moon*. It’s interesting. It would be fascinating if someone like Carpenter adapted it into a movie. It might not be a hit, but I like this kind of world. It has an '80s sci-fi vibe, so it would probably only appeal to that generation (people in their 30s and older).
 
-## 2001-11-27 (Tuesday)
+## November 27, 2001 (Tuesday)
 
 In the afternoon, I had a consultation with the doctor. It can't be helped, but given the history so far, I already feel like "The Boy Who Cried Wolf," so it seems they aren't taking me very seriously. There's also what happened last time. Maybe it really is just stress again. As we went over the results of my full-body checkup from the end of July, the doctor suggested that the painful area in my back might indicate an issue with the pancreas. For the stomach pain, I was given a week's supply of Gaster and Selbex.
 
@@ -2133,13 +2133,13 @@ I bought Yūichi Shinpo's essay (interview) book at noon.
 I signed greeting cards to be included in the limited edition copies sent to Carpenter, Bryan Singer, and Stephen Norrington. Somehow, this makes me happy. I thought about adding a comment, but I decided against it because my English is a bit shaky.
 
 
-## 2001-11-29 (Thursday)
+## November 29, 2001 (Thursday)
 
 Today is finally the domestic release day of MGS2. Despite the cold, it seems people are already lining up at the major stores. Much appreciated. Most of the staff have gone out to check on the sales, so the office is very quiet—almost like a holiday, though not quite.
 
 I've been taking the medicine the doctor gave me, but there’s no sign of improvement. If anything, the pain is getting worse. The area around my navel is particularly painful. It seems like it could be the stomach or the duodenum.
 
-## 2001-12-28 (Friday)
+## December 28, 2001 (Friday)
 
 Today is my last day at the office for 2001. Everyone on the MGS2 team is on their post-release break, except for Takabe-kun. I planned to create the proposal for the next project before the year ended, but since yesterday, I’ve been reviewing the developer's diary for the making-of book and couldn't get to it. I went through it all, cutting out personal names, store names, and sensitive parts. It’s now about half its original length, but as I read through it, even I find it interesting.
 
