@@ -35,7 +35,7 @@ To get things right, we compared all versions side by side and consulted a Japan
 ├── best-translation.md         # Consolidated “best” final translation
 ├── data/
 │   ├── scans/                  # Original scans/images
-│   ├── translation-comparison.xlsx (or .csv)
+│   ├── translation-comparison.csv
 │   └── raw_translations/       # AI and human translation files
 ```
 
