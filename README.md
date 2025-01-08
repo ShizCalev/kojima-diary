@@ -23,7 +23,10 @@ This project was started by a group of game developers curious about Hideo Kojim
 
 We began with AI tools like GPT-4, Gemini, and DeepL to create initial transcripts and translations. While the AI translations looked very convincing, they couldn’t be trusted on their own—AI often makes things up or misinterprets details. To improve accuracy, we obtained a human translation commissioned by the YouTube channel *Did You Know Gaming?*. However, this version contained noticeable errors that stood out to anyone familiar with the game’s story.
 
-To get things right, we compared all versions side by side and consulted a Japanese-speaking game developer for final checks. By combining AI outputs, human input, and expert review, we’ve put together what we believe is the most accurate version of Kojima’s diary. For transparency, we’ve included the original scans and a **comparison spreadsheet**—detailing the raw translations, discrepancies, and final selections—so you can explore the process yourself.
+To get things right, we compared all versions side by side and consulted a Japanese-speaking game developer for final checks. By combining AI outputs, human input, and expert review, we’ve put together what we believe is the most accurate version of Kojima’s diary. 
+
+For transparency, we’ve included the [original scans](./data/scans/) and a [comparison spreadsheet](./data/translation-comparison.csv)—detailing the raw translations, discrepancies, and final selections—so you can explore the process yourself.
+
 
 ---
 
